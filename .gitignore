@@ -38,6 +38,6 @@ lerna-debug.log*
 TODO.md
 
 # Env files
-.env
+.env.development
 .env.development
 .env.production
